@@ -1,4 +1,4 @@
-package workspaces.save;
+package save;
 
 public class ZooSave {
     /*

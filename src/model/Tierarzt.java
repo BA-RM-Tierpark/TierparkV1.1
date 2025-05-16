@@ -1,9 +1,5 @@
-package workspaces.model;
-/**
- * Modell für das Tierarztobjekt
- * 
- * @author Tierpark-Gruppe
- */
+package model;
+
 public class Tierarzt extends Mitarbeiter {
 
    /**

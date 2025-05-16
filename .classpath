@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-    <classpathentry kind="src" path="src/view"/>
-    <classpathentry kind="src" path="src/model"/>
-    <classpathentry kind="src" path="src/save"/>
-    <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-    <classpathentry kind="output" path="bin"/>
+    <classpathentry kind="src" path="src"/>
 </classpath>

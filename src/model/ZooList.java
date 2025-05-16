@@ -1,31 +1,7 @@
-package workspaces.model;
+package model;
 
 import java.util.List;
 import java.util.ArrayList;
-
-/**
- * ZooKeep verwaltet das Model
- * 
- * @author Tierpark-Gruppe
- */
-
-/*  
-    Zooname final?
-    
-    Liste von Tieren
-    Liste von Gehegen
-    Liste von Mitarbeitern
-    Futterlager
-    
-    Tiere hinzufügen
-    Tiere ausgeben
-    Gehege hinzufügen
-    Gehege ausgeben
-    Mitarbeiter hinzufügen
-    Mitarbeiter ausgeben
-    Futterlager ausgeben
-    Futterlager einlagern
-    */
 
 public class ZooList {
 

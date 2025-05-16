@@ -1,6 +1,6 @@
 
-import workspaces.view.*;
-import workspaces.model.*;
+import view.*;
+import model.*;
 
 import zookeeper.factory.*;
 import java.time.LocalTime;

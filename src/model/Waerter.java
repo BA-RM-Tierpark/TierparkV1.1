@@ -1,4 +1,4 @@
-package workspaces.model;
+package model;
 /**
  * Modell für das Wärterobjekt
  * 

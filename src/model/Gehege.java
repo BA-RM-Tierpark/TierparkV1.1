@@ -1,4 +1,4 @@
-package workspaces.model;
+package model;
 /**
  * Modell von Gehegeobjekten
  * 
